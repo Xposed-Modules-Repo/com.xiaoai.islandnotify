@@ -2,6 +2,13 @@
 
 > 📱 **LSPosed 模块** | 将小爱同学的**课程表提醒通知**升级为小米**超级岛**（Dynamic Island）形态，支持倒计时/正计时/下课三阶段动态内容，以及完全自定义的显示模板。
 
+##  问题反馈
+
+1.提交issue  
+2.酷安[@Mercury_me](https://www.coolapk.com/u/3336736)
+3.QQ群[326405298](https://qun.qq.com/universal-share/share?ac=1&authKey=4pYafQ2Qy4sMmeMS1PyxW8ZiFk0bFWFo%2BQxK8fIMZisATVz%2FxiPrwu9FhDFIOkXs&busi_data=eyJncm91cENvZGUiOiIzMjY0MDUyOTgiLCJ0b2tlbiI6IndsdDRQMTd3V1NBblJZUnovYVN3L2FJVnVZbWxlNzB3dkRNdUxpYkkvMzlxVld5ekxrRFIxOS8vOUJEeTlCNVAiLCJ1aW4iOiIzMDM4ODk5MjA0In0%3D&data=QZoFaw3hTrzpJuMwthqiQWMfAf0g9ExSXc4WmI95nhcNCzhjknC4U1iDDfyzevUO3SE5U939JPcae88BkbU2CA&svctype=4&tempid=h5_group_info)
+
+
 ## 🎯 模块简介
 
 **课程表超级岛** 将小爱同学的课程表提醒通知转换为小米超级岛（Dynamic Island）形态。通过智能的三阶段状态切换和完全自定义的显示模板，让您的课程提醒更加直观和美观。
@@ -66,8 +73,3 @@
 测试通知从模块自身发出，需配合HyperCeiler移除白名单限制
 
 跨版本更新出现问题优先尝试清除数据
-
-##  问题反馈
-
-1.提交issue  
-2.酷安[@Mercury_me](https://www.coolapk.com/u/3336736)
