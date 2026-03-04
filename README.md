@@ -6,7 +6,7 @@
 
 1.提交issue  
 2.酷安[@Mercury_me](https://www.coolapk.com/u/3336736)  
-3.QQ群[326405298](https://qun.qq.com/universal-share/share?ac=1&authKey=4pYafQ2Qy4sMmeMS1PyxW8ZiFk0bFWFo%2BQxK8fIMZisATVz%2FxiPrwu9FhDFIOkXs&busi_data=eyJncm91cENvZGUiOiIzMjY0MDUyOTgiLCJ0b2tlbiI6IndsdDRQMTd3V1NBblJZUnovYVN3L2FJVnVZbWxlNzB3dkRNdUxpYkkvMzlxVld5ekxrRFIxOS8vOUJEeTlCNVAiLCJ1aW4iOiIzMDM4ODk5MjA0In0%3D&data=QZoFaw3hTrzpJuMwthqiQWMfAf0g9ExSXc4WmI95nhcNCzhjknC4U1iDDfyzevUO3SE5U939JPcae88BkbU2CA&svctype=4&tempid=h5_group_info)
+3.QQ群[1090259252](https://qun.qq.com/universal-share/share?ac=1&authKey=i2XVBTQiHzhWkmG1JSt4ve0Ks5UYNhbfDV8%2FqTUh9zZ2asrHx6pt6t5LmUSXWrd6&busi_data=eyJncm91cENvZGUiOiIxMDkwMjU5MjUyIiwidG9rZW4iOiI0TVh0ZWxCMnZwalRTcjcwdU11VjVSeVU5L1E2R0s5YVNXVElmcTMvZXBUcE1HcU0raFpaNEpMR2RDU3Y2dGliIiwidWluIjoiMzAzODg5OTIwNCJ9&data=1JpDQvDNmZQikicEUFSNhbc7LsUDN_zHh2Hc00f_zyQ5-aYzJzz2od7-8TuT8IRNvAuHSbpkevPs-jw04IBpZw&svctype=4&tempid=h5_group_info)
 
 
 ## 🎯 模块简介
