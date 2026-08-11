@@ -82,3 +82,9 @@ tip：使用其他课表软件作为数据源时，请关闭软件内部课程�
 1.提交issue  
 2.酷安[@Mercury_me](https://www.coolapk.com/u/3336736)  
 3.QQ群[1090259252](https://qun.qq.com/universal-share/share?ac=1&authKey=i2XVBTQiHzhWkmG1JSt4ve0Ks5UYNhbfDV8%2FqTUh9zZ2asrHx6pt6t5LmUSXWrd6&busi_data=eyJncm91cENvZGUiOiIxMDkwMjU5MjUyIiwidG9rZW4iOiI0TVh0ZWxCMnZwalRTcjcwdU11VjVSeVU5L1E2R0s5YVNXVElmcTMvZXBUcE1HcU0raFpaNEpMR2RDU3Y2dGliIiwidWluIjoiMzAzODg5OTIwNCJ9&data=1JpDQvDNmZQikicEUFSNhbc7LsUDN_zHh2Hc00f_zyQ5-aYzJzz2od7-8TuT8IRNvAuHSbpkevPs-jw04IBpZw&svctype=4&tempid=h5_group_info)
+
+### 支持我的开发  
+
+你可以通过下方赞赏码支持我的开发，或通过我的aff注册[Agent Router公益站](https://agentrouter.org/register?aff=HRHy)，你可以获得175刀的token，我也能获得相应token以维持开发  
+
+![赞赏码](donation.webp)
